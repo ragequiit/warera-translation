@@ -2728,7 +2728,7 @@ msgstr "Équipement"
 
 #: src/components/_user/user/SkillValue.tsx:73
 msgid "Equipment:"
-msgstr "Equipment:"
+msgstr "Équipement :"
 
 #: src/components/_economy/market/MarketHeader.tsx:26
 msgid "Equipments"
