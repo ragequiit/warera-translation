@@ -50,7 +50,7 @@ msgstr "{0} купив ваш товар"
 #. placeholder {0}: data.countryName
 #: src/components/_user/notification/notification.frontConfig.tsx:1792
 msgid "{0} created a mercenary contract proposal targeting <0/> in <1/>"
-msgstr ""
+msgstr "{0} створив найманський контракт, націлений на <0/> у <1/>"
 
 #. placeholder {0}: Math.floor(cooldownHours / 24)
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:144
@@ -148,7 +148,7 @@ msgstr "*Може згоріти"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1690
 msgid "<0/> accepted a contract"
-msgstr ""
+msgstr "<0/> прийняв контракт"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:398
 #: src/components/_user/notification/notification.frontConfig.tsx:1229
@@ -168,7 +168,7 @@ msgstr "<0/> купує ваш регіон <1/> за <2>{0}</2>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1733
 msgid "<0/> cancelled the contract"
-msgstr ""
+msgstr "<0/> скасував контракт"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:922
 msgid "<0/> commented on your article <1/>"
@@ -176,7 +176,7 @@ msgstr "<0/> залишив коментар до статті <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1711
 msgid "<0/> completed a contract"
-msgstr ""
+msgstr "<0/> виконав контракт"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:828
 msgid "<0/> conquered the region in <1/>"
@@ -651,7 +651,7 @@ msgstr "<0>Заворушення</0> відображають внутрішн�
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
-msgstr ""
+msgstr "<0>Ваш акаунт потребує додаткової верифікації. Будь-ласка, підтвердіть ваш номер телефону якнайшвидше, щоб продовжити нормально користуватись своїм акаунтом. Непідтверджені акаунти будуть обмежеі після 48 годин, а також можут бути назавжди видалені після 5-и днів.</0><1>Номери телефону зашифровані та недоступні нікому з адміністраторів.</1>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1060,7 +1060,7 @@ msgstr "Зловживання найманськими контрактами �
 
 #: src/components/_user/userReports/ReportFormModal.tsx:84
 msgid "Abusing or spamming the report system may lead to sanctions."
-msgstr ""
+msgstr "Зловживання системою скарг або спам може призвести до санкцій щодо вас."
 
 #: src/pages/country/[countryId]/index.tsx:128
 msgid "Abusing this power to advantage another country will lead to a <0>ban.</0>"
@@ -1159,7 +1159,7 @@ msgstr "Активні війни"
 
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:213
 msgid "Activity"
-msgstr ""
+msgstr "Актиність"
 
 #: src/components/_user/user/FamilyGroup.tsx:70
 msgid "Add User"
@@ -1327,7 +1327,7 @@ msgstr "Кількість фабрик, якими ви можете волод
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1731
 msgid "An admin cancelled the contract"
-msgstr ""
+msgstr "Адмін скасував контракт"
 
 #: src/components/_political/event/event.frontConfig.tsx:331
 msgid "An alliance has been broken"
@@ -1389,7 +1389,7 @@ msgstr "Схвалено"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:179
 msgid "Arcane Boots"
-msgstr ""
+msgstr "Магічні чоботи"
 
 #: src/components/_military/mu/MuMemberList.tsx:153
 msgid "Are you sure you want to demote this commander?"
@@ -1672,7 +1672,7 @@ msgstr "Заблокувати (приховати контент)"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:161
 msgid "Blue Staff"
-msgstr ""
+msgstr "Синій посох"
 
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:116
 #: src/components/_military/mercenaryContract/MercenaryProposalItem.tsx:71
@@ -1802,7 +1802,7 @@ msgstr "Скасуйте будь-коли"
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:43
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:64
 msgid "Cancel Contract"
-msgstr ""
+msgstr "Скасувати контракт"
 
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:283
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:290
@@ -1820,7 +1820,7 @@ msgstr "Скасовано адміном"
 
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:311
 msgid "Cancelled by Admin"
-msgstr ""
+msgstr "Скасовано адміном"
 
 #: src/components/_political/election/CandidateFormModal.tsx:86
 msgid "Candidate"
@@ -2131,11 +2131,11 @@ msgstr "Виконуйте місії щодня, щоб отримувати д
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:307
 #: src/utils/translations.tsx:256
 msgid "Completed"
-msgstr "Завершено"
+msgstr "Виконано"
 
 #: src/components/_military/mercenaryContract/CreateMercenaryProposalModal.tsx:161
 msgid "Completion Bonus (optional)"
-msgstr "Бонус за завершення (за бажанням)"
+msgstr "Бонус за виконання (за бажанням)"
 
 #: src/utils/translations.tsx:29
 msgid "Concrete"
@@ -2275,15 +2275,15 @@ msgstr "Контекстні кордони"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1727
 msgid "Contract cancelled"
-msgstr ""
+msgstr "Контракт скасовано"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1708
 msgid "Contract completed"
-msgstr ""
+msgstr "Контракт виконано"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1751
 msgid "Contract expired"
-msgstr ""
+msgstr "Контракт прострочено"
 
 #: src/pages/country/[countryId]/contracts.tsx:20
 msgid "Contract Proposals"
@@ -2495,7 +2495,7 @@ msgstr "Доступний щоденний досвід!"
 
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:246
 msgid "Damage by user"
-msgstr "Шкода користувача"
+msgstr "Шкода користувачів"
 
 #: src/components/_military/mercenaryContract/CreateMercenaryProposalModal.tsx:154
 msgid "Damage limit"
@@ -2540,11 +2540,11 @@ msgstr "Темний"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:25
 msgid "Dark Era"
-msgstr ""
+msgstr "Dark Era"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:24
 msgid "Dark Era Pack"
-msgstr ""
+msgstr "Набір Dark Era"
 
 #: src/components/_layout/LayoutMapOptions.tsx:280
 msgid "Dark map"
@@ -2746,11 +2746,11 @@ msgstr "Розвиток"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:290
 msgid "Diminish <0/> received damages with <1>Armor</1> in battles"
-msgstr ""
+msgstr "Зменшіть <0/> шкоди у битві завдяки <1>Захисту</1>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:288
 msgid "Diminish Received Damages"
-msgstr ""
+msgstr "Зменшіть отриману шкоду"
 
 #: src/pages/country/[countryId]/index.tsx:200
 msgid "Diplomacy"
@@ -2862,7 +2862,7 @@ msgstr "Подвійний досвід активовано"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:152
 msgid "Dragon"
-msgstr ""
+msgstr "Дракон"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:130
 msgid "Eat"
@@ -2887,7 +2887,7 @@ msgstr "З’їжте стейк"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:20
 msgid "Eco Mode"
-msgstr ""
+msgstr "Режим заробітку"
 
 #: src/components/_political/law/LawTypeSelect.tsx:108
 msgid "Economic laws"
@@ -2978,7 +2978,7 @@ msgstr "Вартість ухвалення"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:185
 msgid "Enchanted Trousers"
-msgstr ""
+msgstr "Зачаровані штани"
 
 #: src/components/_military/battle/BattleSystem.tsx:589
 msgid "Ended"
@@ -3148,31 +3148,31 @@ msgstr "Фанатичний республіканізм"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:21
 msgid "Farmer"
-msgstr ""
+msgstr "Фермер"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:143
 msgid "Farmer Boots"
-msgstr ""
+msgstr "Фермерські чоботи"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:140
 msgid "Farmer Chest"
-msgstr ""
+msgstr "Фермерський бронежилет"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:149
 msgid "Farmer Gloves"
-msgstr ""
+msgstr "Фермерські рукавиці"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:137
 msgid "Farmer Helmet"
-msgstr ""
+msgstr "Фермерський шолом"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:134
 msgid "Farmer Knife"
-msgstr ""
+msgstr "Фермерський ніж"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:146
 msgid "Farmer Pants"
-msgstr ""
+msgstr "Фермерські штани"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:87
 #: src/components/_military/battle/ActiveBattlesList.tsx:167
@@ -3287,7 +3287,7 @@ msgstr "Прапори"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:155
 msgid "Flail"
-msgstr ""
+msgstr "Обушок"
 
 #: src/components/_layout/LayoutMapOptions.tsx:336
 msgid "Font"
@@ -3467,7 +3467,7 @@ msgstr "Чудова робота! Зроби ще кілька ударів, щ
 
 #: src/components/_other/shop/skin.frontConfig.tsx:158
 msgid "Green Staff"
-msgstr ""
+msgstr "Зелений посох"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:33
 msgid "Ground"
@@ -4047,7 +4047,7 @@ msgstr "Нарешті удача на правильному боці"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:188
 msgid "Mage Robe"
-msgstr ""
+msgstr "Плащ мага"
 
 #: src/components/_political/law/Law.tsx:96
 msgid "Maintenance cost"
@@ -4137,7 +4137,7 @@ msgstr "Середньовічний шолом"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:74
 msgid "Medieval Iron Arrow"
-msgstr "Середньовічні залізні стріли"
+msgstr "Середньовічна залізна стріла"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:12
 msgid "Medieval Pack"
@@ -4506,7 +4506,7 @@ msgstr "Новий коментар"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1687
 msgid "New contract accepted"
-msgstr ""
+msgstr "Прийнято новий контракт"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:481
 msgid "New equipment"
@@ -4695,7 +4695,7 @@ msgstr "У цьому підрозділі немає бійців."
 
 #: src/components/_military/mercenaryContract/MercenaryContractList.tsx:46
 msgid "No mercenary contracts"
-msgstr "Найманський контрактів немає"
+msgstr "Найманських контрактів немає"
 
 #: src/components/_military/mu/MuList.tsx:93
 msgid "No military units found"
@@ -4711,7 +4711,7 @@ msgstr "Грошового рейтингу ще немає."
 
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:286
 msgid "No money will be refunded."
-msgstr ""
+msgstr "Гроші не буде повернуто."
 
 #: src/components/_political/partyMotion/PartyMotionList.tsx:62
 msgid "No motions yet"
@@ -5385,7 +5385,7 @@ msgstr "Запропонувати зменшення зарплатні"
 
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:301
 msgid "Proposed"
-msgstr ""
+msgstr "Запропоновано"
 
 #: src/components/_other/shop/ShopHeader.tsx:43
 msgid "Propositions"
@@ -5393,7 +5393,7 @@ msgstr "Пропозиції"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Purple Staff"
-msgstr ""
+msgstr "Фіолетовий посох"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:35
 msgid "Put yourself to work!"
@@ -5514,7 +5514,7 @@ msgstr "Рекрут"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Red Staff"
-msgstr ""
+msgstr "Червоний посох"
 
 #: src/components/_user/user/skills.frontConfig.tsx:68
 msgid "Reduces health lost when fighting in battles"
@@ -5551,7 +5551,7 @@ msgstr "Оновлюється кожну годину"
 #. placeholder {0}: cancelRefund.toLocaleString()
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:285
 msgid "Refund: {0} money will be returned to the country treasury."
-msgstr ""
+msgstr "Відшкодування: {0} монет буде повернуто у державну скарбницю"
 
 #: src/components/_layout/LayoutUserMenu.tsx:187
 msgid "Regen in..."
@@ -5715,11 +5715,11 @@ msgstr "Республіканізм"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:19
 msgid "Reputation earned by the military unit for fulfilling mercenary contracts. For every <0/> dealt, the MU earns <1/>. For every <2/> not dealt before a contract expires, the MU loses <3/>."
-msgstr ""
+msgstr "Репутація, зароблена військоивй підрозділом за виконання контрактів. За кожні завдані <0/> шкоди, ВП отримує <1/>. За кожні <2/> шкоди, що не були завдані до завершення контракту, ВП втрачає <3/>."
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:38
 msgid "Reputation naturally decays by 10% every week."
-msgstr ""
+msgstr "Репутація природно зменшується на 10% щотижня."
 
 #: src/components/_user/user/UserDropdown.tsx:334
 msgid "Request Phone Verification"
@@ -6252,7 +6252,7 @@ msgstr "Предмет спеціалізації"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:191
 msgid "Spellcaster Gloves"
-msgstr ""
+msgstr "Рукавиці чаклуна"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:74
 msgid "Spend your <0>Energy</0> working here to earn <1>Money</1>. Keep clicking to work more!"
@@ -6538,7 +6538,7 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1754
 msgid "The contract for <0/> has expired"
-msgstr ""
+msgstr "Контракт для <0/> прострочено"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1773
 msgid "The contract has been rolled back. All money sent back to <0/>"
@@ -6715,15 +6715,15 @@ msgstr "Назва токену"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:176
 msgid "Tome of Flames"
-msgstr ""
+msgstr "Книга вогню"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:173
 msgid "Tome of Storms"
-msgstr ""
+msgstr "Книга штормів"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:170
 msgid "Tome of Tides"
-msgstr ""
+msgstr "Книга припливів"
 
 #: src/components/_social/ArticleList.tsx:181
 msgid "Top"
@@ -6794,7 +6794,7 @@ msgstr "Всього"
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:474
 msgid "Total cases opened"
-msgstr "Усього відкрито кейсів"
+msgstr "кейсів відкрито"
 
 #: src/components/_military/mercenaryContract/CreateMercenaryProposalModal.tsx:206
 msgid "Total cost:"
@@ -7392,7 +7392,7 @@ msgstr "З винагородою"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:182
 msgid "Wizard Hat"
-msgstr ""
+msgstr "Капелюх чаклуна"
 
 #: src/pages/events/index.tsx:139
 msgid "Won by"
